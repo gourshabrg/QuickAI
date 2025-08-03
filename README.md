@@ -31,4 +31,7 @@ Client
 cd client
 npm install
 npm run dev
-Live[ https://quick-ai-kappa-three.vercel.app/ ]
+🌐 Live Demo
+[click here]( https://quick-ai-kappa-three.vercel.app/)
+ 
+
